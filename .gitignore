@@ -216,3 +216,6 @@ __marimo__/
 .streamlit/secrets.toml
 
 datasets/
+
+# Large datasets (keep locally; GitHub blocks >100MB normal Git objects)
+data/Cell_Phones_and_Accessories_5.json
